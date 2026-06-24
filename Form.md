@@ -1,7 +1,7 @@
 **Final Submission Form**
 
 1. Full name-Mukesh Kumar C          
-2. 2. Roll number or student ID-251090050560          
+2. Roll number or student ID-251090050560          
 3. Email address-mukeshkumarc0309@gmail.com              
 4. GitHub username-MukeshKumarC-0309            
 5. Synergy_TP repository link-https://github.com/MukeshKumarC-0309/Synergy_TP.git                
