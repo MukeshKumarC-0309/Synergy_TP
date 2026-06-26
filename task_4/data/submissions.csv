@@ -1,0 +1,12 @@
+student_id,name,domain,attendance_percent,score,study_hours,height,weight,submitted
+S001,Aarav,ml,92%,8,5,170 cm,65 kg,yes
+S002,Meera,Web Dev,88,6,3,1.62 m,55kg,Yes
+S003,Kabir,ML,,0,0,168cm,,no
+S004,Isha,electronics,95%,nine,4,158 cm,50 kg,yes
+S005,Rohan,web,72,4,two,172 cm,70kg,yes
+S005,Rohan,web,72,4,two,172 cm,70kg,yes
+S006,Tara,MACHINE LEARNING,90%,7,6,165cm,58 kg,Y
+S007,Dev,Mechanical,-10,0,1,180 cm,80 kg,no
+S008,Naina,ML,105%,10,8,160 cm,52 kg,yes
+S009,Omkar,Electronics,85%,,2,175 cm,77 kg,N
+S010,Diya,web development,80,7,4,1.55 m,49kg,yes
