@@ -1,0 +1,11 @@
+student_id,name,domain,attendance_percent,score,study_hours,submitted,height_cm,weight_kg
+S001,Aarav,ML,92.0,8.0,5,yes,170.0,65.0
+S002,Meera,Web,88.0,6.0,3,yes,162.0,55.0
+S003,Kabir,ML,86.0,0.0,0,no,168.0,61.78
+S004,Isha,Electronics,95.0,9.0,4,yes,158.0,50.0
+S005,Rohan,Web,72.0,4.0,2,yes,172.0,70.0
+S006,Tara,ML,90.0,7.0,6,yes,165.0,58.0
+S007,Dev,Mechanical,86.0,0.0,1,no,180.0,80.0
+S008,Naina,ML,86.0,10.0,8,yes,160.0,52.0
+S009,Omkar,Electronics,85.0,5.67,2,no,175.0,77.0
+S010,Diya,Web,80.0,7.0,4,yes,155.0,49.0

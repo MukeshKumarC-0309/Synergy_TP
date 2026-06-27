@@ -1,0 +1,21 @@
+{
+    "total_rows": 10,
+    "missing_values": {
+        "student_id": 0,
+        "name": 0,
+        "domain": 0,
+        "attendance_percent": 0,
+        "score": 0,
+        "study_hours": 0,
+        "submitted": 0,
+        "height_cm": 0,
+        "weight_kg": 0
+    },
+    "duplicates": 0,
+    "domains": [
+        "ML",
+        "Web",
+        "Electronics",
+        "Mechanical"
+    ]
+}
