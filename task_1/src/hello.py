@@ -1,6 +1,6 @@
 # task_1/src/hello.py
 
-def greet(name: str) -> str:
+def greet(name):
     return f"Hello, {name}! Welcome to Synergy Task Phase."
 
 
