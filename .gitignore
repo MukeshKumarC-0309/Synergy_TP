@@ -1,6 +1,9 @@
 venv/
 task_1/venv/
 task_2/venv/
+task_3/venv/
+task_4/venv/
+task_5/venv/
 
 
 __pycache__/
