@@ -11,7 +11,7 @@ To build the theoretical foundation required for data analysis before moving int
 - Harvard Library — Types of Data (Education Data and Statistics Research Guides): https://guides.library.harvard.edu/c.php?g=1324910&p=9889267
 
 ## Final Submitted Report
-`task_3/Task3_MukeshKumarC.pdf`
+`task_7/Task7_MukeshKumarC.pdf`
 
 ## What Was Learned
 This task built a clearer understanding of the difference between an observation and a variable, and between categorical and numerical data, along with domain-specific examples from Biochemistry, Electronics, and Mechanical fields. It also covered why raw data differs from processed data, why a measurement unit is essential to interpreting a numerical value correctly, and why comparing values across different units can lead to false equivalence or flawed conclusions. On the statistics side, it clarified what mean, median, minimum, maximum, and range represent, and specifically when the mean can be misleading due to outliers. Finally, it established a practical checklist of what to inspect before analyzing any dataset, and what questions to ask when receiving domain data from another team — both of which are habits that will carry directly into the pandas-based analysis work coming up next in the taskphase.
