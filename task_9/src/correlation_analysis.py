@@ -5,7 +5,6 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from scipy import stats
 
-# (label, domain, x_column, y_column)
 RELATIONSHIPS = [
     ("Biochem: signal vs concentration", "Biochem", "input_value", "signal"),
     ("Electronics: signal vs load", "Electronics", "input_value", "signal"),
