@@ -39,7 +39,3 @@ Metrics (JSON), predictions (CSV), plots (PNG), and two reports:
 python task_10/src/main.py task_10/data/AirQualityUCI.csv task_10/output
 ```
 
-## Confirmation
-
-No scikit-learn or any ready-made ML library used anywhere. Every model,
-baseline, and metric is implemented in `src/`.
