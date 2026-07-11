@@ -17,7 +17,7 @@ a certified reference analyzer, temperature, and humidity.
 | Classification | `CO(GT) > median` | binary (high vs low CO) |
 | Clustering | sensor + weather similarity | unsupervised |
 
-## Models (all hand-built, no ML libraries)
+## Models  
 
 - Baselines: mean predictor, majority-class predictor
 - Linear Regression (batch gradient descent, MSE loss)
