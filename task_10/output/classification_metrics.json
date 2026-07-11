@@ -1,0 +1,66 @@
+{
+  "raw_target": "CO(GT)",
+  "label_rule": "1 if CO(GT) > median(1.8) else 0",
+  "median_threshold": 1.8,
+  "features": [
+    "PT08.S1(CO)",
+    "PT08.S2(NMHC)",
+    "PT08.S3(NOx)",
+    "PT08.S4(NO2)",
+    "PT08.S5(O3)",
+    "T",
+    "RH",
+    "AH"
+  ],
+  "n_train": 5140,
+  "n_val": 1102,
+  "n_test": 1102,
+  "class_balance_train": {
+    "0": 2634,
+    "1": 2506
+  },
+  "baseline": {
+    "accuracy": 0.5090744101633394,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "confusion_matrix": [
+      [
+        561,
+        0
+      ],
+      [
+        541,
+        0
+      ]
+    ],
+    "counts": {
+      "TP": 0,
+      "TN": 561,
+      "FP": 0,
+      "FN": 541
+    }
+  },
+  "logistic_regression_gd": {
+    "accuracy": 0.9283121597096189,
+    "precision": 0.9442307692307692,
+    "recall": 0.9075785582255084,
+    "f1_score": 0.9255419415645618,
+    "confusion_matrix": [
+      [
+        532,
+        29
+      ],
+      [
+        50,
+        491
+      ]
+    ],
+    "counts": {
+      "TP": 491,
+      "TN": 532,
+      "FP": 29,
+      "FN": 50
+    }
+  }
+}
