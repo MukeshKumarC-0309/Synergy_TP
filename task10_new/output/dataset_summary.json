@@ -1,0 +1,53 @@
+{
+  "n_rows": 3457,
+  "n_cols": 6,
+  "dtypes": {
+    "Temperature": "float64",
+    "Sensor1": "float64",
+    "Sensor2": "float64",
+    "Sensor3": "float64",
+    "Sensor4": "float64",
+    "Sensor5": "float64"
+  },
+  "missing_values": {
+    "Temperature": 0,
+    "Sensor1": 0,
+    "Sensor2": 0,
+    "Sensor3": 0,
+    "Sensor4": 0,
+    "Sensor5": 0
+  },
+  "target_min": 18.982906760867984,
+  "target_max": 31.73919772758955,
+  "target_mean": 24.989396387417305,
+  "target_std": 2.898911508591643,
+  "feature_ranges": {
+    "Sensor1": [
+      0.0002432039013559,
+      0.9997870337051508
+    ],
+    "Sensor2": [
+      0.0003884013074126,
+      0.99996451522588
+    ],
+    "Sensor3": [
+      9.080537485628426e-05,
+      0.9995857298245656
+    ],
+    "Sensor4": [
+      0.0002442271578142,
+      0.9996666128130692
+    ],
+    "Sensor5": [
+      0.0002544157167967,
+      0.9998624367293952
+    ]
+  },
+  "correlations_with_target": {
+    "Sensor1": 0.016421451870037698,
+    "Sensor2": -0.010137110206197748,
+    "Sensor3": -0.01842717119607438,
+    "Sensor4": 0.005498842903237803,
+    "Sensor5": 0.01867727834167576
+  }
+}
