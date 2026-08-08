@@ -1,0 +1,7 @@
+{
+  "final_model": "random_forest",
+  "test_accuracy": 0.9931818181818182,
+  "test_precision_macro": 0.9935064935064936,
+  "test_recall_macro": 0.993181818181818,
+  "test_f1_macro": 0.9931775541531639
+}
